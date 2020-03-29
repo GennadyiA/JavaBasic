@@ -42,6 +42,4 @@ public class task {
             System.out.println(name + " " + position + " " + email + " " + phone + " " + salary + " " + age);
         }
     }
-
-
 }
